@@ -7,6 +7,7 @@ C '''
 #singlelinecomment
 print (''' Multiline
 text''')
-from playsound import playsound
-playsound('C:\\Users\\HP\\Documents\\GitHub\\Python\\ilahi.mp3')
+''''''
+
+
 
