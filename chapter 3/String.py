@@ -10,5 +10,5 @@ print(number[b])
 print(name[0:6]) #0=R 1=a 0123456=Raihan
 print (type(number))
 print (name[-1])
-print(name[6:0])
-print (name[0:6:2])
+print(name[:6])
+print (name[0:6:2])#skip 
