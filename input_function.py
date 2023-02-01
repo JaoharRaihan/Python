@@ -1,0 +1,5 @@
+a= input ("Enter your number : ")
+a= int (a)
+print(type(a))
+b= input ("Enter your name : ")
+print(type(b))
